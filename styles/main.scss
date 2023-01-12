@@ -7,8 +7,10 @@
 @import './base/reset';
 
 @import './mixins/responsive';
-@import './mixins/test-style';
+@import './mixins/text-style';
 @import './mixins/positions';
 @import './mixins/flexbox';
+
+@import './modules/tags';
 
 @import './layouts/grids';
