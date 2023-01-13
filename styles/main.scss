@@ -11,6 +11,9 @@
 @import './mixins/positions';
 @import './mixins/flexbox';
 
+@import './modules/avatar';
 @import './modules/tags';
+@import './modules/star_ratings';
+@import './modules/price';
 
 @import './layouts/grids';
